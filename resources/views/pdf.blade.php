@@ -58,7 +58,6 @@
     <div style="width:100%; height:100px; text-align:center" class="text-center">
         <h3 style="font-style:Algerian; font-weight:bold; color:brown;font-family:Algerian">USERS</h3>
         <h5 style="center" style="font-family:Algerian">Summary of All Users</h5>
-        <small>Users Table</small>
     </div>
         <section class="content ">
             <div class="row">
