@@ -1,0 +1,372 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+FontName Belladona Stencil
+FontSubfamily Regular
+UniqueID TanoVeron: Belladona Stencil: 2017
+FullName Belladona Stencil
+Version Version 1.000
+PostScriptName BelladonaStencil
+Manufacturer Tano Veron
+Designer Tano Veron
+FontDesignerURL www.be.net/tanoveron
+PreferredFamily Belladona Stencil
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -75
+FontHeightOffset 0
+Ascender 750
+Descender -250
+FontBBox -7 -500 952 850
+StartCharMetrics 112
+U 0 ; WX 0 ; N NULL ; G 1
+U 13 ; WX 374 ; N CR ; G 2
+U 32 ; WX 314 ; N space ; G 3
+U 33 ; WX 231 ; N exclam ; G 66
+U 34 ; WX 188 ; N quotedbl ; G 67
+U 35 ; WX 405 ; N numbersign ; G 68
+U 36 ; WX 361 ; N dollar ; G 69
+U 37 ; WX 350 ; N percent ; G 70
+U 38 ; WX 993 ; N ampersand ; G 71
+U 39 ; WX 200 ; N quotesingle ; G 72
+U 40 ; WX 313 ; N parenleft ; G 73
+U 41 ; WX 266 ; N parenright ; G 74
+U 42 ; WX 400 ; N asterisk ; G 75
+U 43 ; WX 400 ; N plus ; G 76
+U 44 ; WX 234 ; N comma ; G 77
+U 45 ; WX 322 ; N hyphen ; G 78
+U 46 ; WX 293 ; N period ; G 79
+U 47 ; WX 369 ; N slash ; G 80
+U 48 ; WX 686 ; N zero ; G 56
+U 49 ; WX 236 ; N one ; G 57
+U 50 ; WX 429 ; N two ; G 58
+U 51 ; WX 490 ; N three ; G 59
+U 52 ; WX 438 ; N four ; G 60
+U 53 ; WX 466 ; N five ; G 61
+U 54 ; WX 438 ; N six ; G 62
+U 55 ; WX 417 ; N seven ; G 63
+U 56 ; WX 522 ; N eight ; G 65
+U 57 ; WX 425 ; N nine ; G 64
+U 58 ; WX 270 ; N colon ; G 81
+U 59 ; WX 242 ; N semicolon ; G 82
+U 60 ; WX 322 ; N less ; G 83
+U 61 ; WX 400 ; N equal ; G 84
+U 62 ; WX 263 ; N greater ; G 85
+U 63 ; WX 432 ; N question ; G 86
+U 64 ; WX 800 ; N at ; G 87
+U 65 ; WX 514 ; N A ; G 4
+U 66 ; WX 494 ; N B ; G 5
+U 67 ; WX 410 ; N C ; G 6
+U 68 ; WX 440 ; N D ; G 8
+U 69 ; WX 384 ; N E ; G 9
+U 70 ; WX 379 ; N F ; G 10
+U 71 ; WX 534 ; N G ; G 11
+U 72 ; WX 436 ; N H ; G 12
+U 73 ; WX 155 ; N I ; G 13
+U 74 ; WX 432 ; N J ; G 7
+U 75 ; WX 491 ; N K ; G 14
+U 76 ; WX 334 ; N L ; G 15
+U 77 ; WX 508 ; N M ; G 16
+U 78 ; WX 441 ; N N ; G 17
+U 79 ; WX 484 ; N O ; G 18
+U 80 ; WX 449 ; N P ; G 19
+U 81 ; WX 434 ; N Q ; G 20
+U 82 ; WX 513 ; N R ; G 21
+U 83 ; WX 410 ; N S ; G 22
+U 84 ; WX 471 ; N T ; G 23
+U 85 ; WX 500 ; N U ; G 24
+U 86 ; WX 550 ; N V ; G 25
+U 87 ; WX 778 ; N W ; G 26
+U 88 ; WX 530 ; N X ; G 27
+U 89 ; WX 455 ; N Y ; G 28
+U 90 ; WX 502 ; N Z ; G 29
+U 97 ; WX 493 ; N a ; G 30
+U 98 ; WX 494 ; N b ; G 31
+U 99 ; WX 410 ; N c ; G 32
+U 100 ; WX 402 ; N d ; G 33
+U 101 ; WX 384 ; N e ; G 34
+U 102 ; WX 379 ; N f ; G 35
+U 103 ; WX 515 ; N g ; G 36
+U 104 ; WX 465 ; N h ; G 37
+U 105 ; WX 138 ; N i ; G 38
+U 106 ; WX 431 ; N j ; G 39
+U 107 ; WX 491 ; N k ; G 40
+U 108 ; WX 373 ; N l ; G 41
+U 109 ; WX 534 ; N m ; G 42
+U 110 ; WX 464 ; N n ; G 43
+U 111 ; WX 484 ; N o ; G 44
+U 112 ; WX 453 ; N p ; G 45
+U 113 ; WX 434 ; N q ; G 46
+U 114 ; WX 513 ; N r ; G 47
+U 115 ; WX 410 ; N s ; G 48
+U 116 ; WX 471 ; N t ; G 49
+U 117 ; WX 500 ; N u ; G 50
+U 118 ; WX 544 ; N v ; G 51
+U 119 ; WX 778 ; N w ; G 52
+U 120 ; WX 532 ; N x ; G 53
+U 121 ; WX 455 ; N y ; G 54
+U 122 ; WX 502 ; N z ; G 55
+U 124 ; WX 150 ; N bar ; G 88
+U 126 ; WX 400 ; N asciitilde ; G 89
+U 180 ; WX 553 ; N acute ; G 108
+U 191 ; WX 346 ; N questiondown ; G 90
+U 193 ; WX 541 ; N Aacute ; G 102
+U 195 ; WX 530 ; N Atilde ; G 91
+U 196 ; WX 530 ; N Adieresis ; G 92
+U 197 ; WX 530 ; N Aring ; G 93
+U 201 ; WX 384 ; N Eacute ; G 94
+U 205 ; WX 147 ; N Iacute ; G 95
+U 209 ; WX 450 ; N Ntilde ; G 106
+U 211 ; WX 510 ; N Oacute ; G 96
+U 218 ; WX 500 ; N Uacute ; G 97
+U 221 ; WX 443 ; N Yacute ; G 110
+U 225 ; WX 465 ; N aacute ; G 98
+U 233 ; WX 370 ; N eacute ; G 99
+U 237 ; WX 218 ; N iacute ; G 100
+U 241 ; WX 450 ; N ntilde ; G 107
+U 243 ; WX 498 ; N oacute ; G 105
+U 250 ; WX 500 ; N uacute ; G 101
+U 253 ; WX 458 ; N yacute ; G 111
+U 8216 ; WX 201 ; N quoteleft ; G 103
+U 8217 ; WX 188 ; N quoteright ; G 104
+EndCharMetrics
+StartKernData 
+StartKernPairs 429
+
+
+KPX space exclam 52
+KPX space ampersand 10
+KPX space comma -40
+KPX space L -27
+KPX space N -26
+
+KPX exclam quotedbl 12
+KPX exclam comma -20
+KPX exclam three -54
+KPX exclam four -54
+KPX exclam six -40
+
+KPX quotedbl space -24
+KPX quotedbl plus 32
+KPX quotedbl slash 18
+KPX quotedbl L -35
+KPX quotedbl M -36
+KPX quotedbl N -30
+
+KPX numbersign comma -11
+KPX numbersign nine -30
+KPX numbersign G -77
+KPX numbersign L -187
+KPX numbersign N -205
+KPX numbersign m -21
+
+KPX dollar quotedbl 23
+KPX dollar parenright 31
+KPX dollar comma -21
+KPX dollar six -46
+KPX dollar L -35
+KPX dollar N -30
+
+KPX percent quotedbl 24
+KPX percent ampersand 24
+KPX percent comma -24
+KPX percent six -8
+
+KPX ampersand space 42
+KPX ampersand exclam 34
+KPX ampersand quotedbl 42
+KPX ampersand dollar 41
+KPX ampersand parenright 55
+KPX ampersand asterisk 53
+KPX ampersand plus 62
+KPX ampersand comma 30
+KPX ampersand hyphen 62
+KPX ampersand period 48
+KPX ampersand zero 24
+KPX ampersand one 42
+
+KPX parenleft quotedbl -24
+KPX parenleft comma -66
+KPX parenleft six -64
+
+KPX parenright comma -84
+KPX parenright one -144
+KPX parenright four -136
+KPX parenright six -109
+KPX parenright N -36
+
+KPX asterisk comma -36
+KPX asterisk six -32
+
+KPX plus exclam 16
+KPX plus quotedbl 24
+KPX plus numbersign 24
+KPX plus comma -12
+
+KPX comma exclam 42
+KPX comma numbersign 24
+KPX comma dollar 17
+KPX comma parenright 20
+KPX comma asterisk 24
+KPX comma plus 24
+KPX comma zero -20
+KPX comma one -12
+KPX comma two 12
+KPX comma three -22
+KPX comma four -22
+KPX comma six -13
+KPX comma L -58
+KPX comma N -77
+
+KPX hyphen comma -31
+KPX hyphen zero -35
+KPX hyphen L -222
+KPX hyphen N -253
+
+KPX period two 48
+
+KPX slash space -40
+KPX slash exclam -11
+KPX slash quotedbl -11
+KPX slash numbersign -29
+KPX slash dollar -67
+KPX slash ampersand -13
+KPX slash parenleft -11
+KPX slash parenright -11
+KPX slash asterisk -11
+KPX slash plus -11
+KPX slash comma -60
+KPX slash hyphen -11
+KPX slash period -32
+KPX slash slash -11
+KPX slash zero -47
+KPX slash one -63
+KPX slash two -30
+KPX slash three -54
+KPX slash six -51
+KPX slash L -40
+KPX slash M -62
+KPX slash N -35
+KPX slash P -37
+KPX slash Q -34
+
+KPX zero quotedbl 36
+KPX zero percent 31
+KPX zero asterisk 42
+KPX zero comma -42
+KPX zero one -65
+KPX zero two 31
+KPX zero four -48
+KPX zero N -43
+
+KPX one quotedbl 16
+KPX one ampersand 10
+KPX one comma -24
+KPX one zero -36
+
+KPX two space -32
+KPX two dollar -12
+KPX two slash -5
+KPX two zero -31
+KPX two one -20
+
+KPX three comma -42
+KPX three L -142
+KPX three N -158
+
+KPX four quotedbl -13
+KPX four percent -13
+KPX four comma -62
+KPX four L -163
+KPX four N -179
+
+KPX five quotedbl -22
+KPX five comma -59
+KPX five one -52
+KPX five two -42
+
+KPX six quotedbl -11
+KPX six comma -53
+KPX six L -133
+KPX six N -146
+
+KPX seven comma -34
+
+KPX eight eight -20
+KPX eight nine -33
+KPX eight colon 20
+KPX eight semicolon -20
+KPX eight less -33
+KPX eight equal -14
+KPX eight greater -60
+KPX eight A -34
+
+KPX nine eight -7
+KPX nine semicolon 34
+KPX nine A 7
+
+KPX colon eight -33
+KPX colon nine -33
+KPX colon less -47
+KPX colon greater -27
+KPX colon question -20
+KPX colon at -14
+KPX colon A -27
+
+KPX semicolon eight -46
+KPX semicolon nine -20
+KPX semicolon colon -33
+KPX semicolon semicolon -66
+KPX semicolon less -47
+KPX semicolon equal -34
+KPX semicolon greater -40
+KPX semicolon at -53
+
+KPX less nine -27
+KPX less colon 13
+KPX less semicolon 20
+KPX less less -6
+KPX less equal 20
+KPX less question 33
+KPX less at 20
+
+KPX equal eight -7
+KPX equal equal -33
+KPX equal greater -6
+KPX equal at -27
+
+KPX greater eight -48
+KPX greater at -33
+
+KPX question eight -46
+KPX question less -74
+KPX question greater -100
+KPX question A -60
+
+KPX at eight -7
+KPX at colon 20
+KPX at less -46
+KPX at greater -74
+
+KPX A eight -33
+KPX A nine -20
+KPX A colon -13
+KPX A semicolon -20
+KPX A at -33
+KPX A A -20
+
+KPX G zero -64
+KPX G G -80
+KPX G m -26
+
+KPX N m -107
+
+
+KPX a one -84
+
+EndKernPairs
+EndKernData
+EndFontMetrics
